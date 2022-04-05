@@ -1,0 +1,2 @@
+Owner,Author,Disclaimer,Description,Version,Name,UIName,URL,entityName,oAuthSettingId,transformSettingIDs,seedIDs
+Mario Rojas,Mario Rojas <mariro_ch@hotmail.com>,,Searches for Cybersquatting Domains,0.1,toregistereddomains,To Domains [DNSTwist],http://dnstwist:8080/run/toregistereddomains,maltego.Domain,,,dnstwist

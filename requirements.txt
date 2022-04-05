@@ -1,0 +1,3 @@
+dnstwist
+maltego_trx>=1.4.3
+gunicorn
