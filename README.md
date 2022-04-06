@@ -18,7 +18,7 @@ Maltego-TRX library [documentation](https://github.com/paterva/maltego-trx)
 
 3. Select New Local Transform
 4. Fill the "Configure details" information
-    - **Display Name:** To Registered Domains [DNStwsit]
+    - **Display Name:** To Registered Domains [DNStwist]
     - **Description:** Searches for Domain permutations and verifies that the domain is registered
     - **Transform ID:** my.registered_domains_dnstwist
     - **Author:** TURROKS
